@@ -4,6 +4,7 @@
 	"description": "Node.js project taught @freecodecamp for free! lol!",
 	"keywords": ["backend", "freecodecamp", "progressive", "node.js", "express"],
 	"license": "MIT",
+	"version": "1.1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
